@@ -9,13 +9,15 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Renato Rivera, Web Developer and Economy Student from Ecuador ¡! 
+  Hi I'm Renato Rivera, Web Developer and Economy Student from Ecuador ¡! 
   <br>
-  - 💻 I love programming in Java an Python
+  - 💻 I love programming in Javascript and PHP 
   <br>
-  📚 I’m currently learning Angular and C# 
+  📚 I’m currently learning Angular and C# with .NET 
   <br>
-  - 🔭 I’m working on Strategia Code, my agency for web development and data-driven marketing.
+  🐍 I use python and R in data science projects
+  <br>
+  - 🔭 I’m a freelance in Strategia Code my web development and data-driven marketing agency.
   <br>
   - 🎓 I'm studying a degree in IT Engineering and another in Economics. 
   <br>
