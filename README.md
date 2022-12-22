@@ -3,7 +3,7 @@
 </section>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/mxnrenato/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/renarivera/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.twitter.com/mxnrenato" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</code>
   <code><a href="https://www.instagram.com/mxnrenato/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
