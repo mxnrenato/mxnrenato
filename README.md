@@ -1,5 +1,7 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <section align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&multiline=true&width=425&height=100&lines=Hi+there+%C2%A1!+%F0%9F%91%8B;I'm+Renato+Rivera...+Web+Developer...;Welcome+to+My+Github+%C2%A1!+">
+  <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="renarivera" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ec.linkedin.com/in/renarivera?trk=profile-badge">Renato Maximiliano R.</a></div>
 </section>
 
 <h5 align="center">
