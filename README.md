@@ -9,7 +9,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi I'm Renato Rivera, Web Developer and Economy Student from Ecuador ¡! 
+  Hi I'm Renato Rivera, Data Analyst and IT Engineer Student from Ecuador ¡! 
   <br>
   - 💻 I love programming in Javascript and PHP 
   <br>
